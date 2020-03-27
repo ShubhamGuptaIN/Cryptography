@@ -1,0 +1,5 @@
+
+E:\11>copy /b image.jpg + mobile.zip image.jpg
+image.jpg
+mobile.zip
+        1 file(s) copied.
